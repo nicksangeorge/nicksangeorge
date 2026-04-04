@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img alt="San George" src="./assets/griffin-goudy.svg" width="200">
+    <img alt="San George" src="./assets/griffin-stamped.jpg" width="200">
   </picture>
 </p>
 
