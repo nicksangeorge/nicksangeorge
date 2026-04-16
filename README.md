@@ -6,5 +6,5 @@
 
 <p align="center">
   <strong>Nick San George</strong><br>
-  Solutions architect and engineer at Microsoft. Previously AWS.
+  Solutions architect and forward deployed engineer at Microsoft. Previously AWS.
 </p>
